@@ -1,4 +1,3 @@
-<!--
 - Hi there 👋 i´m Caradenube
 - 🔭 I’m interested in multimedia art
 - 🌱 I’m currently learning git
@@ -6,4 +5,3 @@
 - 📫 How to reach me: send me an email!
 
 Buenos Aires - Argentina - 2023
--->
